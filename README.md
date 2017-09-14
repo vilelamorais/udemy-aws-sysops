@@ -1,2 +1,3 @@
-# udemy-aws-sysops
-Treinamento Udemy sysOps AWS
+# Treinamento Udemy sysOps AWS
+
+Repositório para compartilhamento dos arquivos de treinamento da Udemy para certificação de AWS sysOps Associate
