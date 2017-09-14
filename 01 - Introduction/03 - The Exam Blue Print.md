@@ -9,4 +9,4 @@
 |   05 - Gerenciamento de dados     |   12%    |
 |   06 - Segurança                  |   15%    |
 |   07 - Networking                 |   12%    |
-|   TOTAL                           |   100%   |
+|   **TOTAL**                       |   100%   |
