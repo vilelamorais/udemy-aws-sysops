@@ -23,9 +23,6 @@ cd aws-scripts-mon
 ./mon-put-instance-data.pl --men-util --verify --verbose
 
 - Para incluir no crontab
-
-*/5 * * * * root /CloudWatch/aws-scripts-mon/mon-put-instance-data.pl --mem-util --mem-used --mem-avail
-
 echo '*/5 * * * * root /CloudWatch/aws-scripts-mon/mon-put-instance-data.pl --mem-util --mem-used --mem-avail' >> /etc/crontab
 
 cat /etc/crontab
