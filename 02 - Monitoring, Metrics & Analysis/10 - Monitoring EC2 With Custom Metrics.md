@@ -27,3 +27,5 @@ cd aws-scripts-mon
 */5 * * * * root /CloudWatch/aws-scripts-mon/mon-put-instance-data.pl --mem-util --mem-used --mem-avail
 
 echo '*/5 * * * * root /CloudWatch/aws-scripts-mon/mon-put-instance-data.pl --mem-util --mem-used --mem-avail' >> /etc/crontab
+
+cat /etc/crontab
